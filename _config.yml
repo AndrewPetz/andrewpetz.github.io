@@ -17,4 +17,7 @@ defaults:
       path: ""
     values:
       layout: "default"
+
+baseurl: ""
+url: "https://andrewpetz.github.io"
 theme: jekyll-theme-time-machine
