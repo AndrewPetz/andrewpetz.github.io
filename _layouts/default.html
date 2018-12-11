@@ -9,10 +9,12 @@
 
 <body>
   {% include navigation.html %}
-  <div class="col-md-2"></div>
-  <div class="col-md-8">{{ content }}</div>
-  <div class="col-md-2"></div>
-
+  <div class="row">
+    <div class="col-md-2"></div>
+    <div class="col-md-8">{{ content }}</div>
+    <div class="col-md-2"></div>
+  </div>
+  
   <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
