@@ -10,6 +10,11 @@ defaults:
       layout: "post"
   - scope:
       path: ""
+      type: "recommendations"
+    values:
+      layout: "recommendation"
+  - scope:
+      path: ""
     values:
       layout: "default"
 
