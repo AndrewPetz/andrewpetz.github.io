@@ -1,0 +1,14 @@
+---
+title: Recommendations
+---
+<h1>My Recommendations</h1>
+
+<p>A list of things I generally recommend.</p>
+
+<ul>
+    {% for rec in site.recommendations %}
+    <li>
+        <h3><a href="{{ rec.url }}">{{ rec.title }}</a></h3>
+    </li>
+    {% endfor %}
+</ul>
