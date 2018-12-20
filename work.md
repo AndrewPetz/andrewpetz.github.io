@@ -4,7 +4,7 @@ title: Work
 ---
 This page is meant to be a short summary of my work.
 
-[My official resume](https://drive.google.com/file/d/1x1z0Aw5SunUzic7Nyu6AcWDrkP1YK7xN/view?usp=sharing)
+[My official resume](/assets/other/Andrew Petz Resume.pdf)
 
 # Professional History
 
