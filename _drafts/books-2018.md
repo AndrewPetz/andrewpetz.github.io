@@ -13,6 +13,8 @@ In cases where I read multiple books from the same series, I write about the ser
 1. Star Surgeon
 1. Major Operation
 
+This series is one that I found sometime in high school, in the library. I read the first couple books back then and absolutely loved the
+
 ## [Night Angel](https://www.goodreads.com/series/45765-night-angel)
 
 1. The Way of Shadows
