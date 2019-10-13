@@ -1,3 +1,18 @@
 ---
 ---
 @import "main";
+
+body {
+    background-color: #121619;
+    color: #e4e4e4;
+}
+a {
+    color: #e39777;
+}
+img {
+    filter: grayscale(30%);
+}
+
+a:hover {
+    color: #E9D985;
+}

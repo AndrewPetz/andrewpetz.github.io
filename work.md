@@ -2,6 +2,9 @@
 layout: default
 title: Work
 ---
+
+# Work
+
 This page is meant to be a short summary of my work.
 
 [My official resume](/assets/other/Andrew Petz Resume.pdf)
@@ -12,6 +15,6 @@ I graduated from the [University of Wisconsin - Eau Claire](https://uwec.edu) in
 
 ## Misc. History
 
-In the fall of 2016, I started coaching middle school football in Arcadia. I coached for three seasons before moving to Madison, and I loved every minute of it.
+In the fall of 2016, I started coaching middle school football in Arcadia. I coached for three seasons before moving to Madison.
 
-In the fall of 2017, I was asked to consider becoming a mentor for the brand-new robotics team in the area, [Trempealeau County Robotics](https://www.tcrobotics.tech/) ([TBA link](https://www.thebluealliance.com/team/7021)). We had an amazing rookie season in 2018, and although I'm no longer able to be a mentor there, I wish them all the best.
+In the fall of 2017, I was asked to consider becoming a mentor for the brand-new robotics team in the area, [Trempealeau County Robotics](https://www.tcrobotics.tech/) ([TBA link](https://www.thebluealliance.com/team/7021)). I mentored there for about a year before my move.

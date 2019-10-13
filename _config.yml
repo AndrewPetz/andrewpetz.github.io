@@ -20,3 +20,4 @@ defaults:
 
 baseurl: ""
 url: "https://andrewpetz.github.io"
+highlighter: rouge
