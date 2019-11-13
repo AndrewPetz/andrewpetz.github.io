@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/andrewpetz
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://andrewpetz.io
+  * I am andrewpetz (https://keybase.io/andrewpetz) on keybase.
+  * I have a public key with fingerprint E01D 0EBB 5590 3D27 9364  6E4E 527F D3A0 9C2E 4E5B
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101aea9ad7fb6809ec6b7e775a8c8cf2551e647ab57cf4f71a0f9c067e7febfc4220a",
+      "fingerprint": "e01d0ebb55903d2793646e4e527fd3a09c2e4e5b",
+      "host": "keybase.io",
+      "key_id": "527fd3a09c2e4e5b",
+      "kid": "0101aea9ad7fb6809ec6b7e775a8c8cf2551e647ab57cf4f71a0f9c067e7febfc4220a",
+      "uid": "682bb82b7eb69feb7f44a76c5ca85419",
+      "username": "andrewpetz"
+    },
+    "service": {
+      "hostname": "andrewpetz.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1573660989,
+  "expire_in": 157680000,
+  "prev": "7fb6dcbee4a9931096ae6805aedb30d2fc8a18f9d220600914ce674e3000f4a4",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMIdAnicrVJbSBRRGF7zbgq5ElhkwYRCJHFm5szMzpIhWYHVQ4rkQ8p2ZubM7uA2
+s82Ou17zVrRY5EMvERFRYT1UYhT0YOANliyjqxiYhhVh5q180CTszFZP9diBw+H/
+/+/7zv9//IMZ8Y60uEdQLN3Tc7057nHfxWpH5ZNtBfWUZCi1lLueqsKxB/sVHLQ8
+VZpCuSlAAxphJCJFUCXeBUQs85KABYFDLtklqwzH0ZiHApI4QVahKtAIqKIMeIJR
+saTKkGEAovIpVdO92AyYmm4RWQxoBWBJ4jgRsAojiCwPeQwxxwiqwiIgyowdSYTo
+M4I2gzQnoSDeoRkkRwJPrL1/4P9z39UxOd7FSBK5ApZ4kdQFFUIk8DInIxcHadEG
+BrGpo2OYoJGumDgcwFYd1ZhPkXxIk7FtrT3LX5hfIwVMwzJkw09KPssKBN021aoN
+2Ngwljy/VTySpivESsIIYTOoGTrlpglStjRbluYElueB6BLzKVwT0Ezs0fRYmnhA
+jv0PDhFJ2xVFljCGSBRZGog8wgTCIaxILFAYVXYh2qWKCrGBB0CkoYx5AWKWiKgQ
+Qcqe67huUG5I2kReIhnUvDqyqk1MNfb3ViQ44tIcSYlr7BVzpKWu+7N4Y1uTV8vn
+s5ik2boHKeejPv/YAALOqVa+8e6n5fmSI6ezF71nr3lChd5Ngwm+bP3SUR+azKl5
+P/KlfmUebjk1GimJ3gcdRfTVsqdDL9qNd5MtE02rMhu/caKjPDX55O652yCt+2vF
+zFzOubl9M14ODXYvrb9QklXQx41/H8jyR/ty/T2Fyd862m6eaI/Mbt/Z2dmw9g0q
+Ll6aToLh5s1x6ZG3ywdD4+FXh+48K2VupBQ4srsvq9MLXeyBodeJ7sozqKj/w4+2
+pucjmRsWUG/qYnr03sfGidawWpaR9/lw13BkPN3Z2j86kTl16+GAsPfKyxVmeH7/
+anNmntOZ29IwvesnJvhImg==
+=pZA7
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/andrewpetz
+
+==================================================================
