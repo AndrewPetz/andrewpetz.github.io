@@ -1,8 +1,24 @@
-- name: About
+- name: 🏠 Home
+  link: /
+  class: home-nav
+- name: 🧔 About
   link: /about.html
-- name: Blog
+  class: about-nav
+- name: 📝 Blog
   link: /blog.html
-- name: Work
+  class: blog-nav
+- name: 🛠️ Work
   link: /work.html
-- name: Recommendations
-  link: /recommendations.html
+  class: work-nav
+- name: 📦 Things
+  link: /things.html 
+  class: things-nav
+- name: 📑 Bookmarks
+  link: /bookmarks.html
+  class: bookmarks-nav
+- name: 📜 Quotes
+  link: /quotes.html
+  class: quotes-nav
+- name: 📥 Contact
+  link: /contact.html
+  class: contact-nav

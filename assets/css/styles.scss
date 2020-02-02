@@ -4,18 +4,118 @@
 @import "main";
 
 body {
-  background-color: #121619;
-  color: #e4e4e4;
-}
-a {
-  color: #e39777;
-}
-img {
-  filter: grayscale(30%);
+  background-color: $twinkle-blue;
+  color: black;
+  font-size: large;
 }
 
-a:hover {
-  color: #e9d985;
+.nav {
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  grid-gap: 8px;
+  list-style-type: none;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 0;
+  a {
+    padding: 8px;
+    display: block;
+    text-decoration: none;
+    border: 3px solid black;
+    line-height: 1.5;
+    &:visited {
+      color: white;
+    }
+  }
+}
+
+.wrapper {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.home-nav {
+  background-color: $royal-blue;
+  color:white;
+  &:hover {
+    background-color: $c64-ntsc;
+    color: white;
+  }
+}
+
+.about-nav {
+  background-color: $c64-ntsc;
+  color:white;
+  &:hover {
+    background-color: $boyzone;
+    color: white;
+  }
+}
+
+.blog-nav {
+  background-color: $boyzone;
+  color:white;
+  &:hover {
+    background-color: $turquoise-topaz;
+    color: white;
+  }
+}
+
+.work-nav {
+  background-color: $turquoise-topaz;
+  color:white;
+  &:hover {
+    background-color: $algal-fuel;
+    color: white;
+  }
+}
+
+.things-nav {
+  background-color: $algal-fuel;
+  color:white;
+  &:hover {
+    background-color: $nyc-taxi;
+    color: white;
+  }
+}
+
+.bookmarks-nav {
+  background-color: $nyc-taxi;
+  color:white;
+  &:hover {
+    background-color: $orange-hibiscus;
+    color: white;
+  }
+}
+
+.quotes-nav {
+  background-color: $orange-hibiscus;
+  color:white;
+  &:hover {
+    background-color: $beniukon-bronze;
+    color: white;
+  }
+}
+
+.contact-nav {
+  background-color: $beniukon-bronze;
+  color:white;
+  &:hover {
+    background-color: $fusion-red;
+    color: white;
+  }
+}
+
+a {
+  color: $royal-blue;
+  &:hover {
+    color: $desire;
+  }
+  &:visited {
+    color: $gloomy-purple;
+  }
 }
 
 hr {

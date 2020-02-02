@@ -3,35 +3,42 @@ layout: recommendation
 title: Chrome Extensions
 ---
 
-[uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+# Browser Extensions
 
-[Google Dictionary](https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja)
+In no particular order...
 
-[Bitwarden](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb)
+## uBlock Origin [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 
-[MightyText](https://chrome.google.com/webstore/detail/mightytext-sms-from-pc-te/dkfhfaphfkopdgpbfkebjfcblcafcmpi)
+When I encounter a new web browser, whether it's from a fresh install or for whatever other reason, this is the first extension I go for. It's a fantastic ad blocker that lets you use custom block lists that others have created. 
 
-[WhatRuns](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip)
+## Google Dictionary [Chrome](https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja)
 
-[EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg)
+Allows you to double-click on a word and see the definition in a little popup balloon. Real nifty. I find myself using it all the time.
 
-[JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa)
+<iframe src='https://gfycat.com/ifr/UnawareTalkativeFruitfly' frameborder='0' scrolling='no' allowfullscreen width='600' height='471'></iframe>
 
-[Reticle](https://chrome.google.com/webstore/detail/reticle/holbpikmjepcdgpfclodjljclfnpojak)
+Unfortunately, there isn't a Firefox version of this extension. However, there is something similar: [English Popup Dictionary](https://addons.mozilla.org/en-US/firefox/addon/english-popup-dictionary/).
 
-[The Camelizer](https://chrome.google.com/webstore/detail/the-camelizer/ghnomdcacenbmilgjigehppbamfndblo)
+## Bitwarden [Chrome](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)
 
-[Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen)
+My password manager of choice. I've tried others (LastPass and 1Password, primarily) and Bitwarden is by far the most consistent with syncing and mobile use. I've been using it for about 3 years without any issues.
 
-[Honey](https://chrome.google.com/webstore/detail/honey/bmnlcjabgnpnenekpadlanbbkooimhnj)
+## WhatRuns [Chrome](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/whatruns/)
 
-[Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)
+Lets you see the technology that's running the website that you're on.
 
-[ShareX](https://chrome.google.com/webstore/detail/sharex/nlkoigbdolhchiicbonbihbphgamnaoc)
+## EditThisCookie [Chrome](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg)
 
-[Turn Off the Lights](https://chrome.google.com/webstore/detail/turn-off-the-lights/bfbmjmiodbnnpllbbbfblcplfjjepjdn)
+Similar addon for Firefox: [Cookie Quick Manager](https://addons.mozilla.org/en-US/firefox/addon/cookie-quick-manager/).
 
-[HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp)
+## Lighthouse [Chrome](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)
 
-[Search by Image (by Google)](https://chrome.google.com/webstore/detail/search-by-image-by-google/dajedkncpodkggklbegccjpmnglmnflm)
+Similar addon for Firefox (I have *not* tested this!) [Lighthouse Report Generator](https://addons.mozilla.org/en-US/firefox/addon/lighthouse-report-generator/)
 
+## ShareX [Chrome](https://chrome.google.com/webstore/detail/sharex/nlkoigbdolhchiicbonbihbphgamnaoc) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/sharex/)
+
+In conjunction with the ShareX [Windows application](https://getsharex.com/), this is by far the best way to take screenshots and videos on your computer.
+
+## HTTPS Everywhere [Chrome](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/)
+
+Forces HTTPS by default on all sites you visit.
