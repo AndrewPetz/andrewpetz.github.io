@@ -5,6 +5,13 @@ class: things
 
 <h1>Things</h1>
 
-<p>Things I enjoy.</p>
+<p>Things I enjoy, or have been enjoying. I hope you enjoy.</p>
 
-<p><a href="/recommendations.html">Recommendations</a></p>
+<p><a href="/recommendations.html">General Recommendations</a></p>
+
+
+{% for thing in site.data.things %}
+{{ thing.name }}
+{% endfor %}
+
+<h2>Under Construction</h2>

@@ -1,6 +1,8 @@
 collections:
   recommendations:
     output: true
+  things:
+    output: true
 
 defaults:
   - scope:
