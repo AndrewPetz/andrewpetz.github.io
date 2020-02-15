@@ -1,24 +1,28 @@
-- name: 🏠 Home
+- name: Home
+  emoji: 🏠
   link: /
   class: home-nav
-- name: 🧔 About
+- name: About
+  emoji: 🧔
   link: /about.html
   class: about-nav
-- name: 📝 Blog
+- name: Blog
+  emoji: 📝
   link: /blog.html
   class: blog-nav
-- name: 🛠️ Work
+- name: Work
+  emoji: 🛠️
   link: /work.html
   class: work-nav
-- name: 📦 Things
+- name: Things
+  emoji: 📦
   link: /things.html 
   class: things-nav
-- name: 📑 Bookmarks
+- name: Bookmarks
+  emoji: 📑
   link: /bookmarks.html
   class: bookmarks-nav
-- name: 📜 Quotes
-  link: /quotes.html
-  class: quotes-nav
-- name: 📥 Contact
+- name: Contact
+  emoji: 📥
   link: /contact.html
   class: contact-nav

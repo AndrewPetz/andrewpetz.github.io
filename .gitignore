@@ -359,3 +359,4 @@ ASALocalRun/
 .localhistory/
 
 # End of https://www.gitignore.io/api/jekyll,visualstudio,visualstudiocode
+_algolia_api_key

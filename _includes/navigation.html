@@ -2,7 +2,7 @@
   <ul class="nav">
     {% for item in site.data.navigation %}
     <li class="nav-item">
-      <a href="{{ item.link }}" class="{{ item.class }}">{{ item.name }}</a>
+      <a href="{{ item.link }}" class="{{ item.class }}"><span aria-hidden="true">{{ item.emoji }}</span> {{ item.name }}</a>
     </li>
     {% endfor %}
   </ul>

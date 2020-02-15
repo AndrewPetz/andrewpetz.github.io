@@ -23,3 +23,7 @@ defaults:
 baseurl: ""
 url: "https://andrewpetz.github.io"
 highlighter: rouge
+
+algolia:
+  application_id: 'WG1CBYCBQ5'
+  index_name: 'andrewpetz.io'

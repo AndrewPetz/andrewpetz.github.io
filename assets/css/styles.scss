@@ -2,6 +2,7 @@
 ---
 
 @import "main";
+@import "_figure";
 
 body {
   background-color: $twinkle-blue;
@@ -11,7 +12,7 @@ body {
 
 .nav {
   display: grid;
-  grid-template-columns: repeat(8, 1fr);
+  grid-template-columns: repeat(auto-fit, 164px);
   grid-gap: 8px;
   list-style-type: none;
   max-width: 1200px;
@@ -90,7 +91,7 @@ body {
   }
 }
 
-.quotes-nav {
+.contact-nav {
   background-color: $orange-hibiscus;
   color: white;
   &:hover {
@@ -99,14 +100,14 @@ body {
   }
 }
 
-.contact-nav {
-  background-color: $beniukon-bronze;
-  color: white;
-  &:hover {
-    background-color: $fusion-red;
-    color: white;
-  }
-}
+// .contact-nav {
+//   background-color: $beniukon-bronze;
+//   color: white;
+//   &:hover {
+//     background-color: $fusion-red;
+//     color: white;
+//   }
+// }
 
 a {
   color: $royal-blue;
@@ -122,7 +123,11 @@ hr {
   display: block;
   height: 1px;
   border: 0;
-  border-top: 1px solid #ccc;
+  border-top: 1px solid $blue-horizon;
   margin: 1em 0;
   padding: 0;
+}
+
+footer {
+  font-size: medium;
 }
