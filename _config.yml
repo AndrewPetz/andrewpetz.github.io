@@ -25,5 +25,14 @@ url: "https://andrewpetz.github.io"
 highlighter: rouge
 
 algolia:
-  application_id: 'WG1CBYCBQ5'
-  index_name: 'andrewpetz.io'
+  application_id: "WG1CBYCBQ5"
+  index_name: "andrewpetz.io"
+
+#srcset, sizes and dynamic media related
+default_width: "800"
+sizes: "(min-width: 1020px) 60vw, 90vw"
+
+srcset:
+  - 600
+  - 850
+  - 1200
