@@ -20,3 +20,13 @@ Posted on <time datetime="{{ page.date | date: '%Y-%m-%d' }}">{% assign d = page
 <article>
     {{ content }}
 </article>
+
+<div id="hyvor-talk-view"></div>
+<script type="text/javascript">
+    var HYVOR_TALK_WEBSITE = 1623; // DO NOT CHANGE THIS
+    var HYVOR_TALK_CONFIG = {
+        url: '{{ page.url | absolute_url }}',
+        id: '{{page.id}}'
+    };
+</script>
+<script async type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script>
